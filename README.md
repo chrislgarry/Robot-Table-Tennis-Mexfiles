@@ -1,4 +1,6 @@
 mexfiles
 ========
 
-A MEX file I wrote to port a C function which computes inverse kinematics for use in the MATLAB environment.
+A collection of MEX files I have written.
+
+myInverseKinematics: a MEX function which calls a C function to compute inverse kinematics for a robotic arm.
